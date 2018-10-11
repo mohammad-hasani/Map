@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha=".9"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnnormal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/normal"
+        android:textColor="@color/leftManu" />
+
+    <Button
+        android:id="@+id/btnsatellite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/satellite"
+        android:textColor="@color/leftManu" />
+
+    <Button
+        android:id="@+id/btnhybrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/hybrid"
+        android:textColor="@color/leftManu" />
+
+    <Button
+        android:id="@+id/btnterrain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/terrain"
+        android:textColor="@color/leftManu" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:src="@drawable/separator"/>
+
+    <Button
+        android:id="@+id/btnmylocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="@string/mylocation"
+        android:textColor="@color/leftManu" />
+
+</LinearLayout>

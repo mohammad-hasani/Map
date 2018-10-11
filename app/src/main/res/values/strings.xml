@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bandar</string>
+    <string name="google_maps_key">AIzaSyDEDI1O8CIQFXLfJ1hLc_D3ndse_3ncKP0</string>
+    <string name="close">Close</string>
+    <string name="pathtotarget">Path To Target</string>
+    <string name="information">Information</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">Action Setting</string>
+    <string name="GPSAlertDialogMessage">GPS or Network is not enabled</string>
+    <string name="GPSAlertDialogTitle">Gps Alert</string>
+
+    <string name="normal">معمولی</string>
+    <string name="road">جاده ای</string>
+    <string name="satellite">ماهواره ای</string>
+    <string name="hybrid">ترکیبی</string>
+    <string name="terrain">زمینی</string>
+    
+    <string name="mylocation">موقعیت مکانی من</string>
+
+</resources>
